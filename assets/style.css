@@ -126,7 +126,7 @@ main section {
 }
 .hero__illustrations {
   flex: 1;
-  padding: 95px;
+  padding: 0px 100px;
 }
 .hero__image {
   border-radius: 50%;
